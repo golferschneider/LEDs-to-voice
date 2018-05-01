@@ -1,7 +1,7 @@
 # LEDs-to-voice
 Voice activated accessible LEDs, also works with music
 
-Hardware...
+Hardware... 
   *arduino uno
   *microphone amplifier with analog input (for arduino)
   *5 meter NeoPixel strip LEDs (mine had 32 LED Diodes per meter)
